@@ -1,0 +1,13 @@
+nav a {
+  color: #2387d8!important;
+}
+
+nav a:hover {
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 1.1rem;
+  color: #2387d8!important;
+}
+header {
+  margin-bottom: 100px;;
+}
