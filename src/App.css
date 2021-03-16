@@ -18,7 +18,18 @@
       padding-left: 15px!important;
   }
 }; */
-html, body {
+/* html, body {
   background-color: #c5d62d!important;
   height: 100%;
-}
+} */
+
+.btn {
+    background-color: #F2D0A7;
+    border: #F2D0A7;
+    color: #2182BF;
+  }
+
+html, body {
+    background-color: #c5d62d!important;
+    /* height: 100%; */
+  }
