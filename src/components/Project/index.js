@@ -3,8 +3,8 @@ import "./style.css";
 
 const Project = ({title,imageLink,intro,fetures,deployedLink,repoLink}) => {
   return (
-    <div class="project">
-    <div class="col-xs-12 col-sm-12 col-lg-4 mb-4">
+    // <div class="project">
+    <div class="col-xs-12 col-sm-6 col-lg-4 mb-4">
       <div class="card text-center h-100">
         <img src={imageLink} class="card-img-top border-bottom"
           />
@@ -27,7 +27,7 @@ const Project = ({title,imageLink,intro,fetures,deployedLink,repoLink}) => {
         </div>
       </div>
     </div>
-          </div>
+          // </div>
   )
 }
 
