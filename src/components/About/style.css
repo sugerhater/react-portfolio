@@ -1,0 +1,19 @@
+#about {
+  background-color: #56738C;
+  color: #F2EBEC;
+  display: flex;
+  padding: 20px 30px;
+  padding-bottom: 200px;
+  max-width: 100%;
+  /* text-align: center; */
+}
+
+.selfIntro {
+  width: 80%;
+}
+
+#about h1 {
+  margin-bottom: 20px;
+  text-align: center;
+
+}

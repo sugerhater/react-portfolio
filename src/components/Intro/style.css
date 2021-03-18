@@ -7,6 +7,10 @@
   min-height: 100vh;
 }
 
+/* #intro h5 h6 {
+  width: 50%;
+} */
+
 @keyframes bouncing {
   0% {bottom: 0;}
   50% {bottom: 20px;}
