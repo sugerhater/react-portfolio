@@ -3,7 +3,7 @@ import "./style.css";
 const Footer = () => {
   return(
     <footer id="contact">
-    <h2>Connect me!</h2>
+    <h2>Contact me!</h2>
     <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/kehong-li-aa26b5136/">
         <i class="fab fa-linkedin"></i>
     </a>
