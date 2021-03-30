@@ -4,17 +4,22 @@
   padding-top: 8%;
   color: #56738C;
   font-family: 'Raleway', sans-serif;
-  min-height: 100vh;
+  min-height: 80vh;
 }
 
 /* #intro h5 h6 {
   width: 50%;
 } */
 
-@keyframes bouncing {
+/* @keyframes bouncing {
   0% {bottom: 0;}
   50% {bottom: 20px;}
   100% {bottom: 0;}
+} */
+@keyframes bouncing {
+  0% {bottom: 25vh;}
+  50% {bottom: 20vh;}
+  100% {bottom: 25vh;}
 }
 
 #intro img {
@@ -47,6 +52,7 @@
   /* position: relative; */
   position: absolute;
   bottom: 0;
+  /* bottom: 80vh; */
   display: block;
   left: 50%;
 }

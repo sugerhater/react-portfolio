@@ -17,9 +17,22 @@
   padding-left: 17px!important;
 }
 
+#portfolio .btn{
+  margin-left:0.75rem;
+  margin-right:0.75rem;
+  padding-left:1.5rem;
+  padding-right:1.5rem;
+  box-shadow: 2px 3px 3px 2px hsl(0deg 0% 21% / 45%);
+}
+
+/* #portfolio .btn{
+  background-color:#c5d62d;
+
+} */
+
 #portfolio a:hover {
-  color: #F2D0A7;
-  text-transform: uppercase;
+  /* color: #F2D0A7; */
+  /* text-transform: uppercase; */
   background-color: #2182BF;
 }
 

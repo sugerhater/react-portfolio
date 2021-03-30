@@ -24,8 +24,8 @@ nav a {
 }
 
 nav a:hover {
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-weight: 500;
-  font-size: 1.1rem;
+  /* font-size: 1.1rem; */
   color: #2387d8!important;
 }

@@ -11,6 +11,7 @@
 
 #portfolio h1 {
   color: #56738C;
+  margin-top:2.5rem;
 }
 
 #portfolioHeader{
@@ -25,7 +26,8 @@
 
 #portfolio a:hover {
   color: #F2D0A7;
-  text-transform: uppercase;
+  font-weight: 500;
+  /* text-transform: uppercase; */
   background-color: #2182BF;
 }
 

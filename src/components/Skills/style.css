@@ -6,7 +6,12 @@
   flex-wrap: wrap;
   justify-content: center;
 }
-
+ul{
+  columns: 3;
+  list-style-type: disc;
+  list-style-position: inside;
+  text-align:left;
+}
 .skills h3 {
   font-family: 'Raleway', sans-serif;
   color: #56738C;
