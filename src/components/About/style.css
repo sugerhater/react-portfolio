@@ -9,14 +9,17 @@
 }
 
 #about p{
-  width:30rem;
+  font-size:20px;
+  width: 70%;
   position:center ;
   margin:auto;
   font-family: 'Raleway', sans-serif;
   margin-bottom: 0.5rem;
   /* text-align:center */
 }
-
+/* p #fact{
+  font-size: 5px;
+} */
 /* #about p h5{
   width:30rem;
 } */
